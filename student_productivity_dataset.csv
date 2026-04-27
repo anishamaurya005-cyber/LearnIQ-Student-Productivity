@@ -1,0 +1,7 @@
+student_id,age,gender,study_hours,sleep_hours,screen_time,stress_level,attendance,assignment_score,exam_score,productivity_score
+101,20,Female,5,7,4,6,85,78,82,80
+102,21,Male,3,6,6,8,75,65,70,68
+103,19,Female,6,8,3,5,90,88,91,89
+104,22,Male,2,5,7,9,60,55,58,57
+105,20,Female,4,7,5,7,80,72,75,74
+106,20,Male,3,9,6,4,72,89,94,80
